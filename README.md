@@ -20,3 +20,5 @@ Projetinho didático, onde podemos encontrar:
 - Linguagem C
 - GCC 4.9.2
 - DEV-C++ 5.11
+## Aluna
+Marina Mendes Durand 
