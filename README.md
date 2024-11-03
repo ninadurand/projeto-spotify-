@@ -7,7 +7,7 @@
 Projetinho didático, onde podemos encontrar:
 
 - Structs
-- Lista* duplamente encadeada em C.
+- Lista* circular duplamente encadeada em C.
 - Funções.
 - Busca.
 - Manipulação de arquivos.
